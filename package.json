@@ -1,7 +1,7 @@
 {
-  "name": "ineffa-esm",
+  "name": "nahida-esm",
   "version": "0.0.1",
-  "description": "Beta version of ineffa-esm",
+  "description": "Beta version of nahida-esm",
   "type": "module",
   "scripts": {
     "start": "node ./start.js"
