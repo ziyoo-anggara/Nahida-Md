@@ -23,9 +23,9 @@ global.mess = {
   Path thumbnail 
 */
 global.thumurl = '_'
-global.thumb1 = fs.readFileSync("./data/@etc/ui/thumb:1.jpeg")
-global.thumb2 = fs.readFileSync("./data/@etc/ui/thumb:2.jpeg")
-global.thumb1x1 = fs.readFileSync("./data/@etc/ui/thumb1:1.jpeg") // wajib d bawah 10kb, kompres di: image.pi7.org
+global.thumb1 = fs.readFileSync("./data/@etc/ui/thumb_1.jpeg")
+global.thumb2 = fs.readFileSync("./data/@etc/ui/thumb_2.jpeg")
+global.thumb1x1 = fs.readFileSync("./data/@etc/ui/thumb1_1.jpeg") // wajib d bawah 10kb, kompres di: image.pi7.org
 
 /*
   Tampilan munu & reply
